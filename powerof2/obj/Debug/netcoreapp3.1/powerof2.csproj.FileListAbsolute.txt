@@ -1,0 +1,14 @@
+F:\Assignments\powerof2\bin\Debug\netcoreapp3.1\powerof2.exe
+F:\Assignments\powerof2\bin\Debug\netcoreapp3.1\powerof2.deps.json
+F:\Assignments\powerof2\bin\Debug\netcoreapp3.1\powerof2.runtimeconfig.json
+F:\Assignments\powerof2\bin\Debug\netcoreapp3.1\powerof2.runtimeconfig.dev.json
+F:\Assignments\powerof2\bin\Debug\netcoreapp3.1\powerof2.dll
+F:\Assignments\powerof2\bin\Debug\netcoreapp3.1\powerof2.pdb
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.csproj.AssemblyReference.cache
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.AssemblyInfoInputs.cache
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.AssemblyInfo.cs
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.csproj.CoreCompileInputs.cache
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.dll
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.pdb
+F:\Assignments\powerof2\obj\Debug\netcoreapp3.1\powerof2.genruntimeconfig.cache
