@@ -1,0 +1,14 @@
+F:\Assignments\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+F:\Assignments\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+F:\Assignments\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+F:\Assignments\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+F:\Assignments\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+F:\Assignments\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.AssemblyReference.cache
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+F:\Assignments\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
